@@ -1,1 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Gerechten</title>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+
+<style>
+body {
+background-image:url("http://dennisvandenelzen.com/wp-content/uploads/2013/08/t-Twiske-11.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment:scroll;
+	}
+	</style>
+</head>
+<body>
+<ol>
+	<li><a href="index.html"> Nederland </a> </li>
+	<li><a href="menu 1.html"> Gerechten </a> </li>
+	<li><a href="menu 2.html"> Tradities </a> </li>
+	<li><a href="menu 3.html"> Informatie </a> </li>
+	<li><a href="menu 4.html"> Prijsvraag </a> </li>
+	</ol>
+	<h1> Gerechten </h1>
+	<p> Er zijn een aantal gerechten en producten die het stempel "typisch Nederlands" mogen hebben. Dat betekent niet altijd dat de oorsprong Nederlands is, maar vaak is er sprake van een typisch Nederlandse toepassing of variant. Zo vinden Amerikanen het heel erg apart dat wij als ontbijt chocolade hagelslag over onze boterhammen strooien. Zij kennen het product wel, maar passen het anders toe. De zogenaamde 'chocolate sprinkles' strooien ze daar over ijs of andere desserts. </p>
+	
+<table border="3px">
+ <thead>
+ <span>
+			<tr>
+            <th colspan="2">Nederlandse gerechten</th> 
+			</tr>			
+            <tr>
+               	<th>Hoofdgerechten </th>
+				<th>Nagerechten </th>
+				<th>Snacks </th>
+            </tr>
+</thead>
+<tbody>
+			<tr>
+            <td>Hache </td>
+			<td>Vlavlip </td>
+			<td>Bitterballen </td>
+            </tr>
+			<tr>
+             <td>Erwtensoep </td>
+			 <td>Bossche bollen </td>
+			 <td>Haring </td>
+            </tr>
+            
+            <tr>
+              <td>Stamppot </td>
+			  <td>Poffertjes </td>
+			  <td>kibbeling </td>
+            </tr>
+</span>
+			</tbody>	
+        </table>
+        
+	
+</body>
+</html>
 

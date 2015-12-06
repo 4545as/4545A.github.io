@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Informatie</title>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<style>
+
+body {
+background-image:url("http://www.tuindoek.nl/library/original/59293.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment:scroll;
+	}
+	</style>
+</head>
+<body>
+<ol>
+	<li><a href="index.html"> Nederland </a> </li>
+	<li><a href="menu 1.html"> Gerechten </a> </li>
+	<li><a href="menu 2.html"> Tradities </a> </li>
+	<li><a href="menu 3.html"> Informatie </a> </li>
+	<li><a href="menu 4.html"> Prijsvraag </a> </li>
+	</ol>
+<h2> </h2>
+	<h3> Nederland </h3>
+	<img src="http://www.holland.com/upload_mm/7/b/1/4642_fullimage_NL%20vlag_560x350.jpg">
+	<h4> Bevolking: Met meer dan 16,9 miljoen inwoners en een bevolkingsdichtheid van 498 mensen per km2 is Nederland het dichtst bevolkte land van de Europese Unie en een van de dichtst bevolkte landen ter wereld. Het totale oppervlak van Nederland is 41.500 km2. Amsterdam is de hoofdstad van Nederland, maar de regering is gevestigd in Den Haag. Meer dan 40% van de totale bevolking woont in de Randstad, in de omgeving van Amsterdam, Rotterdam, Den Haag en Utrecht.
+Taal: Nederlands is de officiële taal. In de provincie Friesland wordt ook Fries gesproken. Dit is niet enige officieel erkende regionale taal. Andere, niet-erkende regionale talen zijn het Nedersaksisch en het Limburgs. In andere delen van Nederland spreken mensen naast standaard Nederlands vaak een dialect. Veel Nederlanders spreken ook Duits en Engels.
+
+Economie: Nederland staat bekend als politiek stabiel land met een gezond financieel beleid. Nederland is een van de meest open economieën ter wereld en is een van 's werelds grootste exporteurs.
+
+Sport: Populaire sporten in Nederland zijn voetbal, hockey, tennis, wielrennen, golf, volleybal, korfbal, handbal, zwemmen en schaatsen. Vooral de Nederlandse voetballers en schaatsers hebben een wereldwijd een goede reputatie.
+Oranje is de kleur van het Nederlandse koningshuis en staat voor de nationale identiteit. Daarom hullen de Nederlandse fans zich in oranje. Tijdens sommige sportevenementen kleurt het hele land oranje en raken mensen in de ban van de Oranjekoorts.
+Omgangsvormen: Nederlanders zijn creatief, ruimdenkend en pragmatisch. Ze zijn ook nogal direct, eerlijk en open in de omgang met anderen. Nederlanders staan bekend om hun tolerante houding tegenover maatschappelijke kwesties zoals abortus, euthanasie en gebruik van (soft)drugs.
+	</h4>
+	
+	
+</body>
+</html>

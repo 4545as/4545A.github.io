@@ -1,0 +1,106 @@
+ol {
+	list-style-type:none;
+	margin: 0px;
+	padding 0px;
+	text-align: center;
+	border: 3px dotted #660000;
+}
+li a {
+	width: 200px;
+	height: 18px;
+	margin: 0px;
+	color: #660000;
+	text-decoration:none;
+	font-family: Goudy stout;
+	font-size: 25px;
+	margin-top: 10px;
+	
+}
+h1 {
+	font-family: goudy stout;
+	font-size: 50px;
+	text-align: center;
+	
+	}
+p { 
+	text-align:left;
+	font-family:arial black;
+	font-size: 20px;
+	color:#800000;
+	}
+
+
+h2 {
+	font-family: goudy stout;
+	font-size: 50px;
+	text-align: center;
+	}
+	
+td {
+	font-family:arial black;
+	font-size:25px;
+	color: white;
+	border-color: black;
+	border-width: 5px;
+	margin: 30px;
+	
+	}
+th {
+	font-family:arial black;
+	font-size:25px;
+	color: white;
+	text-align: left;
+	border-color: black;
+	border-width: 5px;
+	margin: 30px;
+	color: #000066;
+	}
+ul	{
+
+font-family: century schoolbook;
+font-size: 30px;
+
+}
+
+h6 {
+font-family:arial black;
+font-size:20px;
+text-align: center;
+color:#800000;
+}
+Span {
+color:#ffffff;
+}
+img {
+float: right;
+height:150px
+
+}
+h3 { width: sem;
+float: left;
+margin: 0;
+font-size:30px;
+}
+
+}
+h7 {
+text-align:center;
+font-family:goudy stout;
+font-size: 50px;
+}
+h8 {
+text-align: right;
+font-size: 30px;
+}
+p:hover {
+color: White;
+}
+td:hover {
+color:black;
+}
+li {
+color: White;
+}
+h4:hover {
+color:Red;
+}

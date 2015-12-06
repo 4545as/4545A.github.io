@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Prijsvraag</title>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<style>
+body {
+background-image:url("http://travelrumors.com/wp-content/uploads/2015/08/Molen-2.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment:scroll;
+	}
+	</style>
+
+ 
+</head>
+<body>
+<ol>
+	<li><a href="index.html"> Nederland </a> </li>
+	<li><a href="menu 1.html"> Gerechten </a> </li>
+	<li><a href="menu 2.html"> Tradities </a> </li>
+	<li><a href="menu 3,html"> Informatie </a> </li>
+	<li><a href="menu 4.html"> Prijsvraag </a> </li>
+	</ol>
+	<h1> Prijsvraag </h1>
+	<p> Beantwoord deze vraag en wie weet win jij straks een van de Nederland-pakketen! Compleet met een kookboek en nog meer typisch Nederlandse dingen! (vergeet niet je email-adres in te voeren! </p>
+<span>
+<h4> Wie was de eerste koning van Nederland? </h4> </span>
+<input type="text">
+<span> <h4> Email: </h4> </span>
+<input type="text">
+<a href="Menu 4.html"> <input type="submit"> </a>
+
+<img src="http://www.tweedehandskledingwinkels.nl/images/nederlandse.png"/>
+
+</body>
+</html>
+

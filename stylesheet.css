@@ -8,7 +8,7 @@ ul {
 	padding: 10px;
 	border: 7px;
 }
-li a {
+li {
 	display: inline-block;
 	padding: 0px 10px 0px 10px;
 	padding: top right bottom left;

@@ -21,6 +21,8 @@ li a {
 	}
 div menu {
 	display:block;
+	text-align: center;
+	width: 8em;
 	}
 h1 {
 	font-family: goudy stout;

@@ -10,15 +10,14 @@ ul {
 	border: 7px
 }
 li a {
-	width: 200px;
-	height: 18px;
-	margin: 0px;
+	display: inline-block;
+	padding: 0px 10px 0px 10px;
+	border: 1px;
 	color: #660000;
 	text-decoration:none;
 	font-family: Goudy stout;
-	font-size: 25px;
-	margin-top: 10px;
-	
+	font-size: 2em;
+	float: center;
 }
 h1 {
 	font-family: goudy stout;

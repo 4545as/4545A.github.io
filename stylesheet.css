@@ -10,7 +10,7 @@ ul {
 	border: 3px;
 }
 li a {
-	display: block;
+	display: inline-block;
 	padding: 0px 10px 0px 10px;
 	border: 1px;
 	color: #660000;

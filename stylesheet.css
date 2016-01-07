@@ -19,7 +19,7 @@ li a {
 	font-size: 2em;
 	float: center;
 	}
-div menu {
+#menu {
 	display:block;
 	text-align: center;
 	width: 8em;

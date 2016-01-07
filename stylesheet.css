@@ -18,7 +18,10 @@ li a {
 	font-family: Goudy stout;
 	font-size: 2em;
 	float: center;
-}
+	}
+div menu {
+	display:block;
+	}
 h1 {
 	font-family: goudy stout;
 	font-size: 50px;

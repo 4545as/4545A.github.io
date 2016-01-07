@@ -2,12 +2,12 @@ body ,
 html{
 	min-height: 100%;
 }
-ol {
+ul {
 	list-style-type:none;
-	margin: 0px;
-	padding 0px;
+	overflow: hidden;
+	padding: 10px;
 	text-align: center;
-	border: 3px dotted #660000;
+	border: 7px
 }
 li a {
 	width: 200px;

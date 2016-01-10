@@ -15,7 +15,7 @@ nav ul {
 nav ul li { 
 	list-style-type: none;
 	width: 150px;
-	float: left;
+	float: center;
 	border-right: 1px solid #CCC;
 	text-align: center;
 }
